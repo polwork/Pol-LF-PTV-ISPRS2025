@@ -1,8 +1,11 @@
-# Pol-LF-PTV-ISPRS2025
-
 # Dataset
 
-* We provide the Baidu Netdisk link of the dataset
-* File shared via Baidu Netdisk: Pol-LF-PTV.zip
-* Link: https://pan.baidu.com/s/14OmPSQ2-nDl91OXw0eFvJA?pwd=2025
+* We provide the Baidu Netdisk link for this dataset, available for download as a file or compressed package:
+
+* Baidu Netdisk shared file (file format): Pol-LF-PTV
+Link: https://pan.baidu.com/s/1C8oaZD0_nYYBGk48cj4_GA?pwd=2025
+
+*Baidu Netdisk shared file (compressed package): Pol-LF-PTV.zip
+Link: https://pan.baidu.com/s/1h88oTX9XEh0yrRu2aA0-7w?pwd=2025
+
 * Extraction code: 2025
